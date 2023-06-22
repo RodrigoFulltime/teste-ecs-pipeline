@@ -5,8 +5,8 @@ env:
   variables:
     AWS_DEFAULT_REGION: us-east-2
     AWS_ACCOUNT_ID: 598723879413
-    IMAGE_NAME: teste-mariusso
-    CONTAINER_NAME: Mariusso-PipelineECS
+    IMAGE_NAME: teste-docker
+    CONTAINER_NAME: docker-pipeline 
 
 
 phases:
