@@ -5,8 +5,8 @@ env:
   variables:
     AWS_DEFAULT_REGION: us-east-2
     AWS_ACCOUNT_ID: 598723879413
-    IMAGE_NAME: teste-docker
-    CONTAINER_NAME: teste-build 
+    IMAGE_NAME: deploy-ecs-pipeline
+    CONTAINER_NAME: deploy-ecs-pipelne 
 
 
 phases:
